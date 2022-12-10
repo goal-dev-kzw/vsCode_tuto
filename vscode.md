@@ -177,8 +177,7 @@
  
 
 
-div>(header>h2{Header $$}*3+p{This is a paragraph.}+ul.nav>li#list${List $$$}*4)+(section>div#middle>p>u>i{This is middle section}^^p{I am description})+footer>p{This is footer}
-
+    
 
 <br>
 
@@ -209,3 +208,11 @@ div>(header>h2{Header $$}*3+p{This is a paragraph.}+ul.nav>li#list${List $$$}*4)
 		    <p>This is footer</p>    
 	    </footer>    
     </div>           
+
+
+<br>
+
+Answer::  ***Don't look first***
+	
+	
+    div>(header>h2{Header $$}*3+p{This is a paragraph.}+ul.nav>li#list${List $$$}*4)+(section>div#middle>p>u>i{This is middle section}^^p{I am description})+footer>p{This is footer}
